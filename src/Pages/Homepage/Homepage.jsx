@@ -1,4 +1,5 @@
 
+import "./Homepage.css"
 
 const Homepage = () => {
     return (
@@ -9,4 +10,4 @@ const Homepage = () => {
 }
 
 
-export default {Homepage};
+export default Homepage;
