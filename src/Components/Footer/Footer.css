@@ -1,0 +1,32 @@
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-color: black;
+}
+
+.information-section {
+    display: flex;
+    flex-direction: row;
+
+    background-color: burlywood;
+    width: 85vw;
+}
+
+.copyright-section {
+    display: flex;
+    
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-color: black;
+
+    background-color: red;
+    width: 85vw;
+}
