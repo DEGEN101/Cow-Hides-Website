@@ -12,15 +12,18 @@
     border-color: #9F9F9F;
 }
 
-.footer-container .heading {
+.footer-container .footer-heading {
+    margin-bottom: 5%;
+
     font-family: 'Poppins', sans-serif;
     color: #000000;
     
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: bolder;
 }
 
 .footer-container .sub-heading {
+    margin-bottom: 5%;
     font-family: 'Poppins', sans-serif;
     color: #9F9F9F;
     font-weight: 800;
@@ -29,10 +32,12 @@
 
 /* Information Section */
 .footer-container .information-section {
+    margin: 2% 0 2% 0;
     display: flex;
     flex-direction: row;
 
     width: 85vw;
+    height: 90%;
     gap: 8%;
 }
 
@@ -40,7 +45,6 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-
 }
 
 .footer-container .links-section {
@@ -50,11 +54,8 @@
     align-items: flex-start;
 }
 
-.links-section li {
-    padding-left: 0;
-}
-
 .links-section .footer-link {
+    margin: 14% 0 0 0;
     text-decoration: none;
 }
 

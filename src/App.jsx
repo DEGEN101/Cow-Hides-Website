@@ -1,11 +1,12 @@
-import Homepage from './Pages/Homepage/Homepage';
+// import Homepage from './Pages/Homepage/Homepage';
+import AboutUsPage from './Pages/AboutUsPage/AboutUsPage';
 
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <>
-      <Homepage/>
+      <AboutUsPage/>
     </>
   );
 }
