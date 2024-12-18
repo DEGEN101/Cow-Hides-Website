@@ -1,3 +1,5 @@
+import Text from "../Text/Text.jsx"
+
 import "./TitleCard.css";
 
 import logo from "../../Assets/Images/UI/logo.png";
@@ -12,7 +14,7 @@ const TitleCard = ({title, subtitle}) => {
             <section className="content-container">
                 <img src={logo} alt="Logo"/>
                 <h1> {title} </h1>
-                <p> <b> Home {">"} </b> {subtitle}</p>
+                <Text textColor="#000000"> <b> Home {">"} </b> {subtitle} </Text>
             </section>
         </section>
     );
