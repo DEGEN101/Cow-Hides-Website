@@ -4,7 +4,7 @@
     flex-direction: column;
     align-items: center;
 
-    background-image: linear-gradient(to bottom right,#FCFFC2, #F9F9F2, #F9F9F2, #F9F9F2, #FCFFC2);
+    background-image: linear-gradient(to bottom right,#ffe6ab, #F9F9F2, #F9F9F2, #ffe6ab);
     border-radius: 5px 5px 0 0;
 
     box-shadow: 0px 2px 5px lightslategray;
@@ -20,7 +20,7 @@
     justify-content: center;
     align-items: center;
 
-    background-color: #EFF756;
+    background-color: #B88E2F;
     border-radius: 5px 5px 5px 5px;
     box-shadow: 0 2px 5px lightslategray;
 }
@@ -37,7 +37,7 @@
 
 .package-card-container .package-card-button {
     width: 8vw;
-    background-color: #EFF756;
+    background-color: #B88E2F;
     
     border-width: 0;
     border-radius: 8px;

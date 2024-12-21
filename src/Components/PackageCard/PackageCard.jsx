@@ -10,7 +10,7 @@ const PackageCardItem = ({ text }) => {
     return (
         <section className="package-card-item-container">
             <img className="package-card-item-image" src={checkCircleIcon} alt="check circle icon"/>
-            <Text textColor="#000000"> {text} </Text>
+            <Text textSize="0.9vw" textColor="#000000"> {text} </Text>
         </section>
     );
 }
