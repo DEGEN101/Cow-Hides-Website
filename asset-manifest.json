@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cow-hides-website/static/css/main.71bded17.css",
-    "main.js": "/cow-hides-website/static/js/main.8cccd272.js",
+    "main.css": "/cow-hides-website/static/css/main.be7e47fa.css",
+    "main.js": "/cow-hides-website/static/js/main.41a1b8fe.js",
     "static/js/488.3aab3f1d.chunk.js": "/cow-hides-website/static/js/488.3aab3f1d.chunk.js",
-    "static/media/sample-cowhide-image.jpg": "/cow-hides-website/static/media/sample-cowhide-image.c0ece17f75036c37aa72.jpg",
+    "static/media/logo.png": "/cow-hides-website/static/media/logo.8edc36338f7a415b5767.png",
+    "static/media/title-card-image.jpg": "/cow-hides-website/static/media/title-card-image.1282e744a2ca3ecc8faf.jpg",
     "static/media/Poppins-Italic.ttf": "/cow-hides-website/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
     "static/media/Poppins-Light.ttf": "/cow-hides-website/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
     "static/media/Poppins-Regular.ttf": "/cow-hides-website/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Medium.ttf": "/cow-hides-website/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
     "static/media/Poppins-Bold.ttf": "/cow-hides-website/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/cow-hides-website/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
-    "static/media/handprint-svgrepo-com.svg": "/cow-hides-website/static/media/handprint-svgrepo-com.22b9769716f9d67f7baebe0b2261d4d4.svg",
-    "static/media/leather-fashion-svgrepo-com.svg": "/cow-hides-website/static/media/leather-fashion-svgrepo-com.393abdba3228f831da924b459c426b50.svg",
-    "static/media/africa-continent-svgrepo-com.svg": "/cow-hides-website/static/media/africa-continent-svgrepo-com.a611d74871e55e20a447f34b2f17d3f0.svg",
+    "static/media/trophy-svgrepo-com.svg": "/cow-hides-website/static/media/trophy-svgrepo-com.d824b8d5b444384e69858eb8bd367bf7.svg",
+    "static/media/warranty-svgrepo-com.svg": "/cow-hides-website/static/media/warranty-svgrepo-com.ff466038690c77ff77edecb9f19abc49.svg",
+    "static/media/support-svgrepo-com.svg": "/cow-hides-website/static/media/support-svgrepo-com.afdd7915e17a844a4f9a106c3d0afd26.svg",
     "index.html": "/cow-hides-website/index.html",
-    "static/media/check-circle-svgrepo-com.svg": "/cow-hides-website/static/media/check-circle-svgrepo-com.3de319c41b92a4c0dd92b54e47c09349.svg",
-    "main.71bded17.css.map": "/cow-hides-website/static/css/main.71bded17.css.map",
-    "main.8cccd272.js.map": "/cow-hides-website/static/js/main.8cccd272.js.map",
+    "main.be7e47fa.css.map": "/cow-hides-website/static/css/main.be7e47fa.css.map",
+    "main.41a1b8fe.js.map": "/cow-hides-website/static/js/main.41a1b8fe.js.map",
     "488.3aab3f1d.chunk.js.map": "/cow-hides-website/static/js/488.3aab3f1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71bded17.css",
-    "static/js/main.8cccd272.js"
+    "static/css/main.be7e47fa.css",
+    "static/js/main.41a1b8fe.js"
   ]
 }
