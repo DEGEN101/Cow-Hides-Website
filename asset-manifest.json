@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cow-hides-website/static/css/main.d137d5d1.css",
+    "main.css": "/cow-hides-website/static/css/main.71bded17.css",
     "main.js": "/cow-hides-website/static/js/main.8cccd272.js",
     "static/js/488.3aab3f1d.chunk.js": "/cow-hides-website/static/js/488.3aab3f1d.chunk.js",
     "static/media/sample-cowhide-image.jpg": "/cow-hides-website/static/media/sample-cowhide-image.c0ece17f75036c37aa72.jpg",
@@ -15,12 +15,12 @@
     "static/media/africa-continent-svgrepo-com.svg": "/cow-hides-website/static/media/africa-continent-svgrepo-com.a611d74871e55e20a447f34b2f17d3f0.svg",
     "index.html": "/cow-hides-website/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/cow-hides-website/static/media/check-circle-svgrepo-com.3de319c41b92a4c0dd92b54e47c09349.svg",
-    "main.d137d5d1.css.map": "/cow-hides-website/static/css/main.d137d5d1.css.map",
+    "main.71bded17.css.map": "/cow-hides-website/static/css/main.71bded17.css.map",
     "main.8cccd272.js.map": "/cow-hides-website/static/js/main.8cccd272.js.map",
     "488.3aab3f1d.chunk.js.map": "/cow-hides-website/static/js/488.3aab3f1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d137d5d1.css",
+    "static/css/main.71bded17.css",
     "static/js/main.8cccd272.js"
   ]
 }
