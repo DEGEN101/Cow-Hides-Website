@@ -3,9 +3,9 @@ import Text from "../Text/Text";
 import "./BrandPanel.css"
 
 
-import trophyIcon from "../../Assets/Images/UI/trophy-svgrepo-com.svg";
-import warrantyIcon from "../../Assets/Images/UI/warranty-svgrepo-com.svg";
-import supportIcon from "../../Assets/Images/UI/support-svgrepo-com.svg";
+import trophyIcon from "../../Assets/Images/UI/Icons/trophy-svgrepo-com.svg";
+import warrantyIcon from "../../Assets/Images/UI/Icons/warranty-svgrepo-com.svg";
+import supportIcon from "../../Assets/Images/UI/Icons/support-svgrepo-com.svg";
 
 
 const PanelItem = ({ imageSrc, altText, title, text }) => {
